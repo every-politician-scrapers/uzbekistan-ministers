@@ -40,8 +40,9 @@ class MinistersList < Scraped::HTML
 
   private
 
+  # TODO: add the Chairmen of State Committees back in
   def member_entries
-    noko.xpath('//table[.//th[contains(.,"Должность")]]//tr[td]')
+    noko.xpath('//table[.//th[contains(.,"Должность")]][position() < 3]//tr[td]')
   end
 end
 
