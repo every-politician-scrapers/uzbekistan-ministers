@@ -1,1 +1,32 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q105966595,Abdukodir Tashkulov,Abdukodir Tashkulov,,,Q110184829,Minister of Higher Education of Uzbekistan,2021-01-14,Q105966595-7EF9037B-B935-4F54-823B-76333303A052
+Q106165258,Jamshid Anvarovich Kuchkarov,Jamshid Anvarovich Kuchkarov,,,Q110184960,Minister of Economic Development and Poverty Reduction,2020-02-24,Q106165258-1E88A2BA-6404-4FFD-BEAC-D593CF62464A
+Q106165258,Jamshid Anvarovich Kuchkarov,Jamshid Anvarovich Kuchkarov,,,Q110185020,Deputy Prime Minister of Uzbekistan,2020-01-24,Q106165258-DBEC4483-4023-4F55-BC4C-4F34427659A7
+Q106171645,Timur Amindzhanovich Ishmetov,Timur Amindzhanovich Ishmetov,,,Q110184808,Minister of Finance,2020-02-20,Q106171645-67960989-3015-45AD-B2A0-445A316E4249
+Q106361482,Ibrokhim Yulchievich Abdurakhmonov,Ibrokhim Yulchievich Abdurakhmonov,,,Q110185201,Minister of Innovative Development,2017-11-29,Q106361482-7C4E2F44-72A5-4419-A52D-5673F0BDF658
+Q106498315,Nozim Khusanov,Nozim Khusanov,,,Q110184885,Minister of Employment and Labour Relations of the Republic of Uzbekistan,2019-09-12,Q106498315-307DD153-9DA7-4BA6-AC4B-7383A8CE3201
+Q106511584,Behzod Musaev,Behzod Musaev,,,Q110184804,Minister of Public Health,2021-11-11,Q106511584-B5554F18-2F3C-4BC9-BAB4-558D1E448730
+Q106530287,Ruslanbek Davletov,Ruslanbek Davletov,,,Q110184816,Minister of Justice,2017-08-14,Q106530287-8EE61EB3-078B-49EE-9976-1ED8B5B73447
+Q106570383,Rakhmat Mamatov,Rakhmat Mamatov,,,Q110185248,Minister for Support of Mahalla and Family,2020-02-01,Q106570383-FE67FF69-5B3B-43C8-BB60-F2FF9FA6F2B3
+Q106574535,Jamshid Khodjayev,Jamshid Khodjayev,,,Q110184795,Minister of Agriculture and Water Resources,2019-01-28,Q106574535-445D082A-4C83-459D-B48C-EAEADB6A2B2E
+Q106592837,Ilhom Mahkamov,Ilhom Mahkamov,,,Q110186797,Minister of Transport of Uzbekistan,2021-02-22,Q106592837-4EEE1D57-0865-4CE9-BA29-FF537CF7A4D1
+Q106606931,Shavkat Khamraev,Shavkat Khamraev,,,Q110185226,Minister of Water Resources,2018-02-12,Q106606931-5D57AA61-1824-499C-B70B-AF5B942DC94F
+Q106606953,Sherzod Hidoyatov,Sherzod Hidoyatov,,,Q110185178,Minister of Housing of Uzbekistan,2021-01-14,Q106606953-91E50BF9-99FA-448A-96D7-B7D7D4981C15
+Q106612393,Kakhraman Sariev,Kakhraman Sariev,,,Q110185358,Chair of the Council of Ministers of the Republic of Karakalpakstan,2016-10-14,Q106612393-44A12E4E-F9AA-4B3A-B4EE-6912BB0DC6E2
+Q109656595,Bakhtiyor Saidov,Bakhtiyor Saidov,,,Q110184938,Minister of Public Education of the Republic of Uzbekistan,2020-11-17,Q109656595-851A8499-808F-43F8-A9A2-0FE7BA454164
+Q24009743,Batir Zakirov,Batir Zakirov,,,Q110185049,Minister of Construction,2019-01-01,Q24009743-F7BEB9BC-8CCD-4E2C-8454-1E250C481CA5
+Q24009818,Tursinkhon Khudayberganov,Tursinkhon Khudayberganov,,,Q110184814,Minister of Emergency Situations,2018-05-12,Q24009818-1543835E-7E10-4178-B156-E2255BA31D14
+Q24009847,Aziz Abdukhakimov,Aziz Abdukhakimov,,,Q110185020,Deputy Prime Minister of Uzbekistan,2018-05-28,Q24009847-90FBC3AB-2944-41B0-8E9D-6DD30EF6A57B
+Q24009847,Aziz Abdukhakimov,Aziz Abdukhakimov,,,Q110186714,Minister of Tourism and Sport of Uzbekistan,2021-02-10,Q24009847-9A0BE768-C7A7-4FE1-99C0-448CF8261BB1
+Q28002959,Abdulla Nigmatovich Aripov,Abdulla Nigmatovich Aripov,,,Q1348717,Prime Minister of Uzbekistan,2016-12-14,Q28002959-1ab055e1-45f2-f580-49dd-d870e9c2db24
+Q28855136,Alisher Sultanov,Alisher Sultanov,,,Q110185231,Minister of Energy of Uzbekistan,2019-02-01,Q28855136-2660D7BF-D68C-4BA8-9FE1-088114354DC6
+Q29349797,Achilbay Ramatov,Achilbay Ramatov,,,Q110185294,First Deputy Prime Minister of Uzbekistan,2016-12-20,Q29349797-223A3B43-763C-4833-A5DC-8960043D2B96
+Q317484,Abdulaziz Komilov,Abdulaziz Komilov,,,Q76419028,Minister of Foreign Affairs of Uzbekistan,2012-01-13,Q317484-062B0FDA-2FA0-4C5D-BB3F-5556FAB3415F
+Q38905192,Poʻlat Bobojonov,Poʻlat Bobojonov,,,Q110184806,Minister of Internal Affairs,2017-09-04,Q38905192-A352D7EF-546C-4BD2-B56A-2C87233D7050
+Q4312092,Ozodbek Nazarbekov,Ozodbek Nazarbekov,,,Q110184822,Minister of Culture and Sports,2020-01-22,Q4312092-00CDE8A3-D454-40AF-BF98-5B30E0AB34B5
+Q60330941,Agrippina Vasilievna Shin,Agrippina Vasilievna Shin,,,Q110185184,Minister of Pre-School Education of Uzbekistan,2017-10-19,Q60330941-DC26248E-9315-4467-B325-B67DF5D3D636
+Q63283334,Bakhodir Kurbanov,Bakhodir Kurbanov,,,Q110184811,Minister of Defense,2019-02-11,Q63283334-F8A0EE3C-7998-4F5F-AC6B-BCFB9A33C3F1
+Q72563597,Sherzod Shermatov,Sherzod Shermatov,,,Q110184858,Minister of Information Technology and Communication of the Republic of Uzbekistan,2021-11-17,Q72563597-6979DA53-103F-436E-AE97-02D06E1D3F24
+Q79312593,Shuhrat Gʻaniyev,Shuhrat Gʻaniyev,,,Q110185020,Deputy Prime Minister of Uzbekistan,2020-09-25,Q79312593-89076064-82A2-4E2D-ABEA-A2BF8D12FFE7
+Q84718692,Sardor Umurzakov,Sardor Umurzakov,,,Q110185074,Minister of Investments and Foreign Trade,2019-01-28,Q84718692-1F8EBAAB-C0FF-4B57-B393-64DE2A34B14A
+Q84718692,Sardor Umurzakov,Sardor Umurzakov,,,Q110185020,Deputy Prime Minister of Uzbekistan,2020-03-10,Q84718692-EBAEBB63-1C69-4BF9-86C1-7909E1944F38
