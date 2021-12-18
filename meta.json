@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Uzbekistan",
+      "id": "Q265"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q110184765",
+      "start": "2016-12-15",
+      "parent": "Q16656759"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "",
+        "title": "",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/uzbekistan-ministers"
 }
