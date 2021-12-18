@@ -22,8 +22,8 @@ jobs:
         curl -L https://github.com/jqnatividad/qsv/releases/download/0.21.0/qsv-0.21.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
         sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
         bundle install
-    - name: Compare official site (mirrored earlier) to Wikidata
-      run: bash bin/compare-official.sh
+    - name: Compare ruwiki to Wikidata
+      run: bash bin/compare-ruwiki.sh
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3
