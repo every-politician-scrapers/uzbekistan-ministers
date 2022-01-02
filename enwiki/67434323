@@ -1,0 +1,109 @@
+{
+  "title": "Agrippina Shin",
+  "pageID": 67434323,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "People from Samarqand Region",
+    "Government ministers of Uzbekistan",
+    "Uzbekistani people of Korean descent",
+    "Koryo-saram"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Agrippina Vasilyevna Shin (Agrepina Vasilyevna Shin; Агриппина Васильевна Шин, Agrippina Vasil'yevna Shin; born December 29, 1958) is an Uzbek politician who has been Uzbekistan's Minister of Preschool Education since 2017.",
+              "links": [
+                {
+                  "text": "Uzbek",
+                  "type": "internal",
+                  "page": "Uzbekistan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Agrippina Vasilyevna Shin"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Uzbek politician",
+          "template": "short description"
+        },
+        {
+          "year": "1958",
+          "month": "12",
+          "day": "29",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Agrippina Shin"
+          },
+          "image": {
+            "text": "Agreppina Shin.jpg"
+          },
+          "title": {
+            "text": "Minister of Preschool Education of Uzbekistan",
+            "links": [
+              {
+                "text": "Minister of Preschool Education",
+                "type": "internal",
+                "page": "Ministry of Preschool Education (Uzbekistan)"
+              },
+              {
+                "type": "internal",
+                "page": "Uzbekistan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 October 2017"
+          },
+          "president": {
+            "text": "Shavkat Mirziyoyev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shavkat Mirziyoyev"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 29, 1958"
+          },
+          "birth_place": {
+            "text": "Samarqand Region, Uzbek SSR, USSR",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samarqand Region"
+              },
+              {
+                "text": "Uzbek SSR",
+                "type": "internal",
+                "page": "Uzbek Soviet Socialist Republic"
+              },
+              {
+                "text": "USSR",
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

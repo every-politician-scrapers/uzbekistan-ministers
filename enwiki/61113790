@@ -1,0 +1,146 @@
+{
+  "title": "Tanzila Norbaeva",
+  "pageID": 61113790,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Members of the Senate of Uzbekistan",
+    "National University of Uzbekistan alumni",
+    "People from Andijan Region",
+    "Uzbekistani politicians",
+    "Uzbekistani women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tanzila Kamalovna Narbaeva (Танзила Камaловна Нaрбaева, Tanzila Kamalovna Narbayeva; born 24 July 1957) is an Uzbek politician who has served as Chairperson of the Senate of Uzbekistan since 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate of Uzbekistan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tanzila Kamalovna Narbaeva"
+                ],
+                "italic": [
+                  "Tanzila Kamalovna Narbayeva"
+                ]
+              }
+            },
+            {
+              "text": "She previously served as the Deputy Prime Minister from 2016 to 2019, and was the Chairperson of the Women's Committee from 2016 to 2019."
+            },
+            {
+              "text": "Before entering politics she worked as a teacher in Tashkent.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tashkent"
+                }
+              ]
+            },
+            {
+              "text": "She is married, and is the mother of two children."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2021",
+          "template": "like resume"
+        },
+        {
+          "date": "November 2021",
+          "template": "blp sources"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "list": [
+            "Kamalovna",
+            "Narbaeva"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1957",
+          "month": "7",
+          "day": "24",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tanzila Narbaeva"
+          },
+          "image": {
+            "text": "Танзила Камаловна.jpg"
+          },
+          "office": {
+            "text": "Chairwoman of the Senate of Uzbekistan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Senate of Uzbekistan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 June 2019"
+          },
+          "predecessor": {
+            "text": "Nigmatilla Yuldashev",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigmatilla Yuldashev"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 24, 1957"
+          },
+          "birth_place": {
+            "text": "Shahrixon District, Uzbek SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shahrixon District"
+              },
+              {
+                "type": "internal",
+                "page": "Uzbek SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tashkent University",
+            "links": [
+              {
+                "text": "Tashkent University",
+                "type": "internal",
+                "page": "National University of Uzbekistan"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
