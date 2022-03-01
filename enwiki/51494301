@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Nigmatilla Tulkinovich Yuldashev (Ниғматилла Тўлқинович Йўлдошев, Nigʻmatilla Toʻlqinovich Yoʻldoshev; Нигматилла Тулкинович Юлдашев; born 5 November 1962) is an Uzbek lawyer and politician who served as Chairman of the Senate of Uzbekistan from 2015 until 2019.",
+              "text": "Nigmatilla Tulkinovich Yuldashev (Ниғматилла Тўлқинович Йўлдошев, born 5 November 1962) is an Uzbek lawyer and politician who served as Chairman of the Senate of Uzbekistan from 2015 until 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -30,9 +30,6 @@
               "formatting": {
                 "bold": [
                   "Nigmatilla Tulkinovich Yuldashev"
-                ],
-                "italic": [
-                  "Nigʻmatilla Toʻlqinovich Yoʻldoshev"
                 ]
               }
             },
@@ -67,9 +64,6 @@
         {
           "name": {
             "text": "Nigmatilla Yuldashev"
-          },
-          "native_name": {
-            "text": "Nigʻmatilla Yoʻldoshev"
           },
           "image": {
             "text": "Nigmatilla Yuldashev.jpg"
@@ -148,15 +142,11 @@
             "text": "November 5, 1962"
           },
           "birth_place": {
-            "text": "Tashkent, Uzbek SSR, Soviet Union",
+            "text": "Tashkent, Soviet Union",
             "links": [
               {
                 "type": "internal",
                 "page": "Tashkent"
-              },
-              {
-                "type": "internal",
-                "page": "Uzbek SSR"
               },
               {
                 "type": "internal",
