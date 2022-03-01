@@ -16,11 +16,16 @@
         {
           "sentences": [
             {
-              "text": "Abdulla Nigmatovich Aripov (Abdulla Nigʻmatovich Oripov, Абдулла Нигматович Арипов; born 24 May 1961, in Tashkent) is the prime minister of Uzbekistan, in office since 14 December 2016.",
+              "text": "Abdulla Nigmatovich Aripov (Abdulla Nigʻmatovich Oripov, born 24 May 1961, in Tashkent) is an Uzbek politician who serves as the prime minister of Uzbekistan, in office since 14 December 2016.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Tashkent"
+                },
+                {
+                  "text": "Uzbek",
+                  "type": "internal",
+                  "page": "Uzbeks"
                 },
                 {
                   "text": "prime minister of Uzbekistan",

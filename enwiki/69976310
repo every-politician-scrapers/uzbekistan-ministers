@@ -6,6 +6,7 @@
     "Living people",
     "People from Tashkent",
     "Government ministers of Uzbekistan",
+    "Hitotsubashi University alumni",
     "Tourism ministers",
     "Sports ministers"
   ],
@@ -108,11 +109,15 @@
             ]
           },
           "education": {
-            "text": "Tashkent State University of Economics",
+            "text": "Tashkent State University of Economics Hitotsubashi University",
             "links": [
               {
                 "type": "internal",
                 "page": "Tashkent State University of Economics"
+              },
+              {
+                "type": "internal",
+                "page": "Hitotsubashi University"
               }
             ]
           }
