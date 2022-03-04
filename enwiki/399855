@@ -120,6 +120,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Miromonovich",
+            "Mirziyoyev"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1957",
           "month": "7",
           "day": "24",
