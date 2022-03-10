@@ -1,180 +1,19 @@
 {
-  "title": "Nigmatilla Yuldashev",
-  "pageID": 51494301,
-  "categories": [
-    "1962 births",
-    "Government ministers of Uzbekistan",
-    "Living people",
-    "Members of the Supreme Assembly (Uzbekistan)",
-    "Members of the Senate of Uzbekistan",
-    "National University of Uzbekistan alumni",
-    "People from Tashkent",
-    "Presidents of Uzbekistan",
-    "Uzbekistani lawyers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nigmatilla Tulkinovich Yuldashev (Ниғматилла Тўлқинович Йўлдошев, born 5 November 1962) is an Uzbek lawyer and politician who served as Chairman of the Senate of Uzbekistan from 2015 until 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Senate of Uzbekistan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nigmatilla Tulkinovich Yuldashev"
-                ]
-              }
-            },
-            {
-              "text": "Previously he was Minister of Justice from 2011 to 2015."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Uzbek lawyer and politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Toʻlkinovich",
-            "Yoʻldoshev"
-          ],
-          "lang": "Eastern Slavic",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1962",
-          "month": "11",
-          "day": "5",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Nigmatilla Yuldashev"
-          },
-          "image": {
-            "text": "Nigmatilla Yuldashev.jpg"
-          },
-          "office": {
-            "text": "Chairman of the Senate",
-            "links": [
-              {
-                "text": "Senate",
-                "type": "internal",
-                "page": "Senate of Uzbekistan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 January 2015"
-          },
-          "term_end": {
-            "text": "21 June 2019"
-          },
-          "predecessor": {
-            "text": "Ilgizar Sabirov"
-          },
-          "successor": {
-            "text": "Tanzila Norbaeva",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tanzila Norbaeva"
-              }
-            ]
-          },
-          "office1": {
-            "text": "President of Uzbekistan Acting",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Uzbekistan"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Shavkat Mirziyoyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shavkat Mirziyoyev"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "2 September 2016"
-          },
-          "term_end1": {
-            "text": "8 September 2016"
-          },
-          "predecessor1": {
-            "text": "Islam Karimov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Islam Karimov"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Shavkat Mirziyoyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shavkat Mirziyoyev"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "November 5, 1962"
-          },
-          "birth_place": {
-            "text": "Tashkent, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tashkent"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "party": {
-            "text": "National Revival Democratic Party",
-            "links": [
-              {
-                "text": "National Revival Democratic Party",
-                "type": "internal",
-                "page": "Uzbekistan National Revival Democratic Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "National University of Uzbekistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National University of Uzbekistan"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Nigmatilla Yuldashev",
+  "image": "Nigmatilla Yuldashev.jpg",
+  "office": "Chairman of the Senate",
+  "term_start": "22 January 2015",
+  "term_end": "21 June 2019",
+  "predecessor": "Ilgizar Sabirov",
+  "successor": "Tanzila Norbaeva",
+  "office1": "President of Uzbekistan Acting",
+  "primeminister1": "Shavkat Mirziyoyev",
+  "term_start1": "2 September 2016",
+  "term_end1": "8 September 2016",
+  "predecessor1": "Islam Karimov",
+  "successor1": "Shavkat Mirziyoyev",
+  "birth_date": "November 5, 1962",
+  "birth_place": "Tashkent, Soviet Union",
+  "party": "National Revival Democratic Party",
+  "alma_mater": "National University of Uzbekistan"
 }
