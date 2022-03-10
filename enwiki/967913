@@ -1,194 +1,21 @@
 {
-  "title": "Abdulaziz Kamilov",
-  "pageID": 967913,
-  "categories": [
-    "1947 births",
-    "Living people",
-    "People from Yangiyo‘l",
-    "Diplomatic Academy of the Ministry of Foreign Affairs of the Russian Federation alumni",
-    "Government ministers of Uzbekistan",
-    "Soviet diplomats",
-    "Uzbekistani diplomats",
-    "Ambassadors of Uzbekistan to Brazil",
-    "Ambassadors of Uzbekistan to Canada",
-    "Ambassadors of Uzbekistan to the United States",
-    "Foreign Ministers of Uzbekistan"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Abdulaziz Khafizovich Kamilov (Abdulaziz Xafizovich Kamilov; Абдулазиз Хафизович Камилов, Abdulaziz Khafizovich Kamilov; born November 16, 1947) is an Uzbek politician who has been Uzbekistan's Minister of Foreign Affairs since 2012.",
-              "links": [
-                {
-                  "text": "Uzbek",
-                  "type": "internal",
-                  "page": "Uzbekistan"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Abdulaziz Khafizovich Kamilov"
-                ]
-              }
-            },
-            {
-              "text": "Previously he served in the same post from 1994 to 2003."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1947",
-          "month": "11",
-          "day": "16",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Abdulaziz Kamilov"
-          },
-          "image": {
-            "text": "Abdulaziz Kamilov July 2018.jpg"
-          },
-          "title": {
-            "text": "Minister of Foreign Affairs of Uzbekistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Foreign Affairs of Uzbekistan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "11 February 2012"
-          },
-          "predecessor": {
-            "text": "Elyor Ganiyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elyor Ganiyev"
-              }
-            ]
-          },
-          "president": {
-            "text": "Islam Karimov Shavkat Mirziyoyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Islam Karimov"
-              },
-              {
-                "type": "internal",
-                "page": "Shavkat Mirziyoyev"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "25 February 1994"
-          },
-          "term_end2": {
-            "text": "14 March 2003"
-          },
-          "predecessor2": {
-            "text": "office established",
-            "formatting": {
-              "italic": [
-                "office established"
-              ]
-            }
-          },
-          "successor2": {
-            "text": "Sodiq Safoyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sodiq Safoyev"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Islam Karimov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Islam Karimov"
-              }
-            ]
-          },
-          "title3": {
-            "text": "Deputy Minister of Foreign Affairs of Uzbekistan",
-            "links": [
-              {
-                "text": "Deputy Minister of Foreign Affairs of Uzbekistan",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs of Uzbekistan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "11 February 2008"
-          },
-          "term_end3": {
-            "text": "11 February 2012"
-          },
-          "predecessor3": {
-            "text": "Elyor Ganiyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elyor Ganiyev"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Elyor Ganiyev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elyor Ganiyev"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Islam Karimov",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Islam Karimov"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "November 16, 1947"
-          },
-          "birth_place": {
-            "text": "Yangiyo'l, Uzbek SSR, USSR",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yangiyo'l"
-              },
-              {
-                "type": "internal",
-                "page": "Uzbek SSR"
-              },
-              {
-                "type": "internal",
-                "page": "USSR"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Abdulaziz Kamilov",
+  "image": "Abdulaziz Kamilov July 2018.jpg",
+  "title": "Minister of Foreign Affairs of Uzbekistan",
+  "term_start": "11 February 2012",
+  "predecessor": "Elyor Ganiyev",
+  "president": "Islam Karimov Shavkat Mirziyoyev",
+  "term_start2": "25 February 1994",
+  "term_end2": "14 March 2003",
+  "predecessor2": "office established",
+  "successor2": "Sodiq Safoyev",
+  "president2": "Islam Karimov",
+  "title3": "Deputy Minister of Foreign Affairs of Uzbekistan",
+  "term_start3": "11 February 2008",
+  "term_end3": "11 February 2012",
+  "predecessor3": "Elyor Ganiyev",
+  "successor3": "Elyor Ganiyev",
+  "president3": "Islam Karimov",
+  "birth_date": "November 16, 1947",
+  "birth_place": "Yangiyo'l, Uzbek SSR, USSR"
 }
