@@ -1,13 +1,13 @@
 id,name,relationship,relative,relativename
-Q26772600,Tatyana Karimova,child,Q541680,Gulnara Karimova
-Q26772600,Tatyana Karimova,child,Q58336,Lola Karimova-Tillyaeva
-Q26772600,Tatyana Karimova,spouse,Q57558,Islam Karimov
-Q317484,Abdulaziz Komilov,relative,Q4391347,Sayyora Rashidova
-Q317484,Abdulaziz Komilov,relative,Q982769,Sharof Rashidov
-Q43803431,Ziroatkhon Hoshimova,child,Q96471602,Saida Mirziyoyeva
-Q43803431,Ziroatkhon Hoshimova,spouse,Q57808,Shavkat Mirziyoyev
-Q57558,Islam Karimov,child,Q541680,Gulnara Karimova
-Q57558,Islam Karimov,child,Q58336,Lola Karimova-Tillyaeva
-Q57558,Islam Karimov,spouse,Q26772600,Tatyana Karimova
-Q57808,Shavkat Mirziyoyev,child,Q96471602,Saida Mirziyoyeva
-Q57808,Shavkat Mirziyoyev,spouse,Q43803431,Ziroatkhon Hoshimova
+Q26772600,Tatyana Karimova,child,Q541680,
+Q26772600,Tatyana Karimova,child,Q58336,
+Q26772600,Tatyana Karimova,spouse,Q57558,
+Q317484,Abdulaziz Komilov,relative,Q4391347,
+Q317484,Abdulaziz Komilov,relative,Q982769,
+Q43803431,Ziroatkhon Hoshimova,child,Q96471602,
+Q43803431,Ziroatkhon Hoshimova,spouse,Q57808,
+Q57558,Islam Karimov,child,Q541680,
+Q57558,Islam Karimov,child,Q58336,
+Q57558,Islam Karimov,spouse,Q26772600,
+Q57808,Shavkat Mirziyoyev,child,Q96471602,
+Q57808,Shavkat Mirziyoyev,spouse,Q43803431,
