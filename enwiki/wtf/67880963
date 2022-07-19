@@ -1,0 +1,120 @@
+{
+  "title": "Shukhrat Kholmukhamedov",
+  "pageID": 67880963,
+  "categories": [
+    "Chiefs of the General Staff (Uzbekistan)",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Major General Shukhrat Gairatzhonovich Kholmukhammedov is the current Chief of the General Staff of the Armed Forces of Uzbekistan, having been appointed to this position on 23 March 2021.",
+              "links": [
+                {
+                  "text": "Chief of the General Staff",
+                  "type": "internal",
+                  "page": "Chief of the General Staff (Uzbekistan)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Armed Forces of Uzbekistan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Shukhrat Gairatzhonovich Kholmukhammedov"
+                ]
+              }
+            },
+            {
+              "text": "He was also awarded the rank of Major General at the same time."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to his appointment, he served as Deputy Defense Minister, Deputy Secretary of the Presidential Security Council and Deputy Minister of Emergency Situations.",
+              "links": [
+                {
+                  "text": "Minister of Emergency Situations",
+                  "type": "internal",
+                  "page": "Ministry of Emergency Situations (Uzbekistan)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2016 he was awarded the Sodi Khizmatlari Uchun medal."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Uzbek general",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Шухрат Холмухамедов назначен первым замминистра обороны",
+          "url": "https://www.uzreport.news/politics/shuhrat-holmuhamedov-naznachen-pervim-zamministra-oboroni",
+          "access-date": "2021-06-07",
+          "website": "UzReport.news",
+          "language": "ru",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "xizmati",
+          "first": "Matbuot",
+          "date": "2021-03-23",
+          "title": "Мудофаа вазирлигида қатор тайинловлар амалга оширилди",
+          "url": "https://mudofaa.uz/43599/",
+          "access-date": "2021-06-07",
+          "website": "Ўзбекистон Республикаси Мудофаа вазирлиги",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-03-23",
+          "title": "Шухрат Холмухамедов назначен первым замминистра обороны — главой Генштаба ВС",
+          "url": "https://www.gazeta.uz/ru/2021/03/23/defense-ministry/",
+          "access-date": "2021-06-07",
+          "website": "Газета.uz",
+          "language": "ru-UZ",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Назначен новый начальник Генерального штаба Вооруженных сил",
+          "url": "https://uznews.uz/ru/article/29923/",
+          "access-date": "2021-06-07",
+          "website": "uznews.uz",
+          "language": "ru",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
