@@ -1859,7 +1859,7 @@
             "text": "Order \"Fidokorona xizmatlari uchun\""
           },
           {
-            "text": "Order of Danaker (Kyrgyzstan)",
+            "text": "Order of Danaker (Kyrgyzstan, 22 November 2017)",
             "links": [
               {
                 "type": "internal",
@@ -1868,7 +1868,7 @@
             ]
           },
           {
-            "text": "Honored Citizen of Seoul (South Korea)",
+            "text": "Honored Citizen of Seoul (South Korea, 14 April 2018)",
             "links": [
               {
                 "type": "internal",
@@ -1881,7 +1881,7 @@
             ]
           },
           {
-            "text": "Prize “For Merits to Eurasia” (Turkey)",
+            "text": "Prize “For Merits to Eurasia” (Turkey, 24 April 2018)",
             "links": [
               {
                 "type": "internal",
@@ -1890,25 +1890,35 @@
             ]
           },
           {
-            "text": "Order of Friendship (Kazakhstan)",
+            "text": "Order of Friendship (Kazakhstan, 15 March 2018)",
             "links": [
               {
+                "text": "Order of Friendship",
                 "type": "internal",
                 "page": "Order of Friendship (Kazakhstan)"
-              }
-            ]
-          },
-          {
-            "text": "Order of the Crown (Tajikistan)",
-            "links": [
+              },
               {
                 "type": "internal",
-                "page": "Order of the Crown (Tajikistan)"
+                "page": "Kazakhstan"
               }
             ]
           },
           {
-            "text": "Honorary Doctorate from Nagoya University (Japan)",
+            "text": "Order of the Crown (Tajikistan, 10 June 2021)",
+            "links": [
+              {
+                "text": "Order of the Crown",
+                "type": "internal",
+                "page": "Order of the Crown (Tajikistan)"
+              },
+              {
+                "type": "internal",
+                "page": "Tajikistan"
+              }
+            ]
+          },
+          {
+            "text": "Honorary Doctorate from Nagoya University (Japan, 8 July 2022)",
             "links": [
               {
                 "type": "internal",
@@ -1917,6 +1927,19 @@
               {
                 "type": "internal",
                 "page": "Japan"
+              }
+            ]
+          },
+          {
+            "text": "Order of Alexander Nevsky (Russia, 24 July 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Alexander Nevsky"
+              },
+              {
+                "type": "internal",
+                "page": "Russia"
               }
             ]
           }
@@ -1984,6 +2007,12 @@
           "website": "kun.uz",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
